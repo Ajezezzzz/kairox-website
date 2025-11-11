@@ -1,0 +1,13 @@
+{
+  "name": "Kairox",
+  "short_name": "Kairox",
+  "description": "Telegram-first crypto automation suite.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    { "src": "/kairox_logo_golden.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/kairox_logo_512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
